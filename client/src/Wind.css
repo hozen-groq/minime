@@ -1,0 +1,80 @@
+/* Wind.css */
+.wind-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 2;
+  }
+  
+  .wind-element {
+    position: absolute;
+    opacity: 0.95;
+  }
+  
+  /* Simple chiseled effect that matches the app title */
+  .wind-path {
+    /* Very subtle shadow for depth */
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  }
+  
+  /* Wind cluster positions - positioned off left side of screen */
+  .wind-cluster-1 {
+    position: fixed;
+    bottom: 160px;
+    left: -200px; /* Start off-screen */
+    width: 200px;
+    animation: windFlow 18s linear infinite;
+    animation-delay: 0s;
+  }
+  
+  .wind-cluster-2 {
+    position: fixed;
+    bottom: 280px;
+    left: -200px; /* Start off-screen */
+    width: 200px;
+    animation: windFlow 22s linear infinite;
+    animation-delay: 6s;
+  }
+  
+  .wind-cluster-3 {
+    position: fixed;
+    bottom: 90px;
+    left: -160px; /* Start off-screen */
+    width: 160px;
+    animation: windFlow 15s linear infinite;
+    animation-delay: 3s;
+  }
+  
+  /* Left to right flowing animation for all wind elements */
+  @keyframes windFlow {
+    0% {
+      transform: translateX(-20px);
+      opacity: 0;
+    }
+    5% {
+      opacity: 1;
+    }
+    90% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateX(calc(100vw + 200px));
+    }
+  }
+  
+  /* Faster animations for thinking state - reduce the duration */
+  .wind-container.thinking .wind-cluster-1 {
+    animation-duration: 8s;
+  }
+  
+  .wind-container.thinking .wind-cluster-2 {
+    animation-duration: 10s;
+  }
+  
+  .wind-container.thinking .wind-cluster-3 {
+    animation-duration: 7s;
+  }

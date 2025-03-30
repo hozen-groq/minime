@@ -1,0 +1,703 @@
+{
+  "cachedAt": "2025-03-30T03:12:16.867Z",
+  "count": 99,
+  "metadata": {
+    "username": "ozenhati",
+    "userId": "1815404957262065665"
+  },
+  "tweets": [
+    {
+      "id": "1906152027467423957",
+      "created_at": "2025-03-30T01:10:32.000Z",
+      "text": "@swyx @latentspacepod @groqinc offers a very generous free tier for various text, speech, and vision models: https://t.co/jT3bq8UWHV",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905785197049602417",
+      "created_at": "2025-03-29T00:52:53.000Z",
+      "text": "pro tip if you don't have access to gpt-4o image gen you can do this with gemini 2.0 image gen for free https://t.co/EVEDaPawpk",
+      "likes": 90,
+      "retweets": 3
+    },
+    {
+      "id": "1905435942229360870",
+      "created_at": "2025-03-28T01:45:04.000Z",
+      "text": "@sama @shaunralston @chatgpt21 maybe @groqinc should lend you some lpus instead sama",
+      "likes": 21,
+      "retweets": 1
+    },
+    {
+      "id": "1905344306723824051",
+      "created_at": "2025-03-27T19:40:56.000Z",
+      "text": "@DeryaTR_ would be interesting to try with this newly released visual reasoning model from the qwen team as well https://t.co/CWhGvrkBmG",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1905327723762835800",
+      "created_at": "2025-03-27T18:35:03.000Z",
+      "text": "this is my official petition to ghiblify @groqinc console \npls sign https://t.co/w9yXK3DlNP",
+      "likes": 22,
+      "retweets": 0
+    },
+    {
+      "id": "1905307087946531152",
+      "created_at": "2025-03-27T17:13:03.000Z",
+      "text": "@robert_fenney thank you for the kind words, Robert! 🫶🏻 really appreciate it - just out here trying to share helpful content to help you all build better (and faster) haha",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1905306339116798222",
+      "created_at": "2025-03-27T17:10:04.000Z",
+      "text": "@kamrannetic @GroqInc just passed your feedback along to our team - we have a lot of exciting things in store for this year :)",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1905305319950987285",
+      "created_at": "2025-03-27T17:06:01.000Z",
+      "text": "@raw_works @play_ht @GroqInc @haydenbleasel i've never seen this before haha let me check it out thanks for sharing",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905305228464828853",
+      "created_at": "2025-03-27T17:05:39.000Z",
+      "text": "@RayFernando1337 @sundeep @benklieger @IanAndrewsDC @AarushSah_ for real...",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1905305151826538505",
+      "created_at": "2025-03-27T17:05:21.000Z",
+      "text": "@rovers_x @play_ht @GroqInc currently giving 10 requests per day @ 1,200 tokens per minute on free tier :)",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905304779183562975",
+      "created_at": "2025-03-27T17:03:52.000Z",
+      "text": "@beratfromearth @GroqInc @pipecat_ai i'd say it would depend on demand but i'd personally hope so :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905304655749390464",
+      "created_at": "2025-03-27T17:03:23.000Z",
+      "text": "@The_X_Tweets @GroqInc @pipecat_ai at that price, we're getting ~22 hours of high-quality audio content (based on avg reading speed + avg word length).\n\nbut we're always working to improve devex and that includes pricing - would love to learn more about your use case! :)",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905302642571489682",
+      "created_at": "2025-03-27T16:55:23.000Z",
+      "text": "@kamrannetic @GroqInc i think we're currently looking into it 🤝 what's your use case?",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905302279722278993",
+      "created_at": "2025-03-27T16:53:56.000Z",
+      "text": "Build fast and let us know what else you need: https://t.co/9AGi6ElyXX",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905302276408812008",
+      "created_at": "2025-03-27T16:53:56.000Z",
+      "text": "@play_ht's Dialog on @GroqInc for text-to-speech running at 219 chars/s. This isn't just speed - it's the difference between your users waiting vs. engaging.\n\nBenchmark your voice apps and hear the difference while our team focuses on accelerating more modalities and models. 🫡 https://t.co/SHi6H0Q1jR https://t.co/qLsGQcSasW",
+      "likes": 8,
+      "retweets": 0
+    },
+    {
+      "id": "1905281786143203690",
+      "created_at": "2025-03-27T15:32:30.000Z",
+      "text": "evals, evals, evals. need i say more? \n\nif you’re in sf and are building ai agents, you really don’t want to miss this one. https://t.co/AKfJJZsdNv",
+      "likes": 16,
+      "retweets": 0
+    },
+    {
+      "id": "1905267136563405136",
+      "created_at": "2025-03-27T14:34:18.000Z",
+      "text": "@jad_jerdy @ashpreetbedi @GroqInc lmk what you need and i'll hook you up with higher limits 🫡",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905055147928985961",
+      "created_at": "2025-03-27T00:31:56.000Z",
+      "text": "as merry-go-round of life by joe hisaishi plays in the background https://t.co/WyietAsonl",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "id": "1905034557029523642",
+      "created_at": "2025-03-26T23:10:06.000Z",
+      "text": "@Ta_nush @GroqInc @pipecat_ai thank you! 🤝🏻 and i’d love to hear about your experience with building voice agents",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905032577653629047",
+      "created_at": "2025-03-26T23:02:14.000Z",
+      "text": "@Scobleizer @OpinionAILtd @sundeep @GroqInc that would be fantastic! 🤩 @GroqInc",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905029945723920437",
+      "created_at": "2025-03-26T22:51:47.000Z",
+      "text": "@Scobleizer @OpinionAILtd @sundeep @GroqInc part two? 👀",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1905028864696369432",
+      "created_at": "2025-03-26T22:47:29.000Z",
+      "text": "@IanAndrewsDC @sundeep @AarushSah_ love love love",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905028644323663967",
+      "created_at": "2025-03-26T22:46:37.000Z",
+      "text": "Pro Tip: Combine @GroqInc's new TTS with @pipecat_ai  to easily unlock:\n\n- Complete voice pipeline (Groq STT → LLM → TTS)\n- Voice Activity Detection\n- Interruption handling\n\nAI voice agents that sound human thanks to low latency, fast inference. And this is just the beginning. https://t.co/bfSKYGzGx9",
+      "likes": 85,
+      "retweets": 13
+    },
+    {
+      "id": "1905014214361522341",
+      "created_at": "2025-03-26T21:49:16.000Z",
+      "text": "@OpinionAILtd @play_ht @GroqInc we’ll have some tts tutorials to share soon :)",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905014103078313994",
+      "created_at": "2025-03-26T21:48:50.000Z",
+      "text": "@abdshomad @OpinionAILtd @play_ht @GroqInc which languages would you want support for?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905012182238061022",
+      "created_at": "2025-03-26T21:41:12.000Z",
+      "text": "@AI__AGI @play_ht @GroqInc thank you for the feedback! that’s really good to know. letting the team know right now 🫡",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905011996644491416",
+      "created_at": "2025-03-26T21:40:28.000Z",
+      "text": "@raw_works @play_ht @GroqInc @haydenbleasel hi annoying about what 👀",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905011945138208948",
+      "created_at": "2025-03-26T21:40:15.000Z",
+      "text": "@KartikeyRai_ @play_ht @GroqInc 💃🏻💃🏻💃🏻",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905011580720271410",
+      "created_at": "2025-03-26T21:38:48.000Z",
+      "text": "@AarushSah_ @sundeep this is so NICE",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1905011143569015078",
+      "created_at": "2025-03-26T21:37:04.000Z",
+      "text": "@MrlolDev your current one is pretty cool",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1905011055388172771",
+      "created_at": "2025-03-26T21:36:43.000Z",
+      "text": "@UtopicDev shoutout to @AarushSah_ for hooking me up",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1905010867600798064",
+      "created_at": "2025-03-26T21:35:58.000Z",
+      "text": "@sundeep join us (@AarushSah_ yk what to do here.)",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "id": "1904940451070632229",
+      "created_at": "2025-03-26T16:56:10.000Z",
+      "text": "@AI__AGI @play_ht @GroqInc pricing can be found here and free tier also has access: https://t.co/Wd931wuArp",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1904936831654805773",
+      "created_at": "2025-03-26T16:41:47.000Z",
+      "text": "@kraken_9076 u really cooked with this tweet",
+      "likes": 6,
+      "retweets": 0
+    },
+    {
+      "id": "1904936753896599636",
+      "created_at": "2025-03-26T16:41:28.000Z",
+      "text": "https://t.co/G8LPyAbEhc https://t.co/oXoQEuJpqv",
+      "likes": 91,
+      "retweets": 0
+    },
+    {
+      "id": "1904936262953242636",
+      "created_at": "2025-03-26T16:39:31.000Z",
+      "text": "@AarushSah_ @altryne OMG i am enjoying it thank u 🤝🏻",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1904935058412061171",
+      "created_at": "2025-03-26T16:34:44.000Z",
+      "text": "@altryne i want a ghibli profile pic 😭",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1904933146363101599",
+      "created_at": "2025-03-26T16:27:08.000Z",
+      "text": "@OpinionAILtd @play_ht @GroqInc what else would you like to see? end-to-end tutorials maybe?",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1904928462797668395",
+      "created_at": "2025-03-26T16:08:32.000Z",
+      "text": "3/3 We've already received requests for TTS word-level timestamps. What else?\n\nLMK if you need any other features and we'll deliver. 🫡\n\nIf you want to try the English TTS model right now, you can visit our console and experiment in the playground here: https://t.co/9AGi6ElyXX",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1904928461182964132",
+      "created_at": "2025-03-26T16:08:31.000Z",
+      "text": "2/3 Excited to see what you ship. Where are my game devs? Customer support app devs? It's time to build fast.\n\nAvailable for both free and dev tiers on both playground and via Groq API.\n\nMore info in docs here: https://t.co/lkSiyk7Xc7",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1904928459513540990",
+      "created_at": "2025-03-26T16:08:31.000Z",
+      "text": "LOUD PSA: Turn up your audio because @play_ht's Dialog text-to-speech model is now live on @GroqInc for insanely fast speech generation with support for both English and Arabic voices.\n\nWe now have speech-to-text and text-to-speech for you to build end-to-end voice agents. 🔊 https://t.co/leEOzdFj18",
+      "likes": 64,
+      "retweets": 8
+    },
+    {
+      "id": "1904920631021351350",
+      "created_at": "2025-03-26T15:37:24.000Z",
+      "text": "@GroqInc @play_ht TURN UP THE VOLUME! 🗣️🗣️🗣️",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "id": "1904676034122752502",
+      "created_at": "2025-03-25T23:25:28.000Z",
+      "text": "@tobitege45259 @GroqInc 100% - this won’t be replacing our api docs, it’s just an addition to aid models by having all api docs in one file. :)",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1904675565027942546",
+      "created_at": "2025-03-25T23:23:36.000Z",
+      "text": "@yigitkonur @JonathanRoss321 agreed - the team is looking into a bunch of models 🫡",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1904675347200614888",
+      "created_at": "2025-03-25T23:22:44.000Z",
+      "text": "@jeffscottward @ollama @iaritrasaha @_akhaliq @GroqInc noted 🫡",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1904675232511647979",
+      "created_at": "2025-03-25T23:22:17.000Z",
+      "text": "@yawnxyz we don’t sleep 🫡",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1904675217718309093",
+      "created_at": "2025-03-25T23:22:13.000Z",
+      "text": "@_5upr4 i appreciate ur support 🤝🏻",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1904675215948345658",
+      "created_at": "2025-03-25T23:22:13.000Z",
+      "text": "@benankdev miraculously i found a slot for early next week",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1904674884556300518",
+      "created_at": "2025-03-25T23:20:54.000Z",
+      "text": "@minchev i am blinking but i will not say how many times 👀",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "id": "1904245752043368568",
+      "created_at": "2025-03-24T18:55:41.000Z",
+      "text": "5 days - google calendar screenshot, colorized, 2025 https://t.co/OUGZglRhm3",
+      "likes": 27,
+      "retweets": 0
+    },
+    {
+      "id": "1903200721647853759",
+      "created_at": "2025-03-21T21:43:06.000Z",
+      "text": "@theo i just started the interview process for a devrel eng intern on my team for the summer if they’re builders send them my way",
+      "likes": 20,
+      "retweets": 0
+    },
+    {
+      "id": "1902834761560645643",
+      "created_at": "2025-03-20T21:28:54.000Z",
+      "text": "@mhd_alkhadra anytime! lmk what else you’d like to see :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902834506635059340",
+      "created_at": "2025-03-20T21:27:53.000Z",
+      "text": "@theo @GroqInc goat inference for the goat 🤝🏻",
+      "likes": 10,
+      "retweets": 0
+    },
+    {
+      "id": "1902834306721906773",
+      "created_at": "2025-03-20T21:27:06.000Z",
+      "text": "@JasonGiedymin @theo @GroqInc we appreciate you - thank you! 🫶🏻",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "id": "1902818481915171192",
+      "created_at": "2025-03-20T20:24:13.000Z",
+      "text": "@benankdev rooting for you 🫡",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902816330811683208",
+      "created_at": "2025-03-20T20:15:40.000Z",
+      "text": "@Sentient_Radar @GroqInc enjoy 🤝🏻",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1902816298653946305",
+      "created_at": "2025-03-20T20:15:32.000Z",
+      "text": "@rovers_x @GroqInc @vercel stay tuned, @RickLamers and i will have some exciting updates around mcp soon :)",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1902816035088269638",
+      "created_at": "2025-03-20T20:14:30.000Z",
+      "text": "@graphicious @GroqInc not yet, but we’re working on that feature :)",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "id": "1902815941496349171",
+      "created_at": "2025-03-20T20:14:07.000Z",
+      "text": "for all my friends building voice apps out there, here’s a quick video for word-level timestamps + audio chunking (that wasn't quick to make) 🤝🏻 https://t.co/unNHzfIuPw",
+      "likes": 46,
+      "retweets": 5
+    },
+    {
+      "id": "1902568785158029657",
+      "created_at": "2025-03-20T03:52:01.000Z",
+      "text": "@wispem_wantex @GroqInc i wrote a script that combines good ol’ scraping for all of our doc pages + groq api for cleanup/generating clean descriptions :)",
+      "likes": 7,
+      "retweets": 0
+    },
+    {
+      "id": "1902552205187486104",
+      "created_at": "2025-03-20T02:46:08.000Z",
+      "text": "@riorigasaki65 are you not able to access the console? can you please DM me with more info?",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1902552081552007323",
+      "created_at": "2025-03-20T02:45:38.000Z",
+      "text": "@isamutlib @GroqInc sounds great! lmk if you have any questions or feedback for us :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902547434921668718",
+      "created_at": "2025-03-20T02:27:10.000Z",
+      "text": "@isamutlib @GroqInc hi, isa! we have both a free tier and dev tier (10x higher limits than free tier) and our model pricing is available here: https://t.co/7vf8H1hkKW",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1902544636679274819",
+      "created_at": "2025-03-20T02:16:03.000Z",
+      "text": "I removed any doc pages not relevant for helping your model actually build, such as privacy policy, terms, etc. \n\nThis is just the beginning - let us know what else you need to build fast. 🫡\n\nHere's our llms-full.txt file containing all of our API docs: https://t.co/P51jTxwojc",
+      "likes": 13,
+      "retweets": 0
+    },
+    {
+      "id": "1902544634825330724",
+      "created_at": "2025-03-20T02:16:03.000Z",
+      "text": "@GroqInc API docs are now completely LLM-friendly with /llms.txt and /llms-full.txt files. \n\nThis is the future of technical docs - easily accessible knowledge for models, not just humans. Add these to your model's context window and let your AI agents build fast with our API. https://t.co/iQRJPe5cd8",
+      "likes": 117,
+      "retweets": 13
+    },
+    {
+      "id": "1902088875108901061",
+      "created_at": "2025-03-18T20:05:01.000Z",
+      "text": "@0xAsharib you get it 🤝🏻",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902088292197101908",
+      "created_at": "2025-03-18T20:02:42.000Z",
+      "text": "@jaredpalmer @JonathanRoss321 @GroqInc @vercel groq x vercel 🤝🏻",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1902081406852862090",
+      "created_at": "2025-03-18T19:35:21.000Z",
+      "text": "@DylanMitic @GroqInc @vercel 100%! let us know if you have any feedback :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902081264339079493",
+      "created_at": "2025-03-18T19:34:47.000Z",
+      "text": "@MrlolDev @GroqInc @vercel our free tier is still available for all models on the platform and specdec was a preview model! \n\nsee definitions for preview models here: https://t.co/ZW1ZVYnBdk",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1902077550676869434",
+      "created_at": "2025-03-18T19:20:01.000Z",
+      "text": "@NirDiamantAI @GroqInc all it takes to enable is setting the timestamp_granularities parameter to \"word\" if you're using whisper via our api! :) \n\ncheck out our docs here and lmk if you have any questions: https://t.co/NTi75Gpx5L https://t.co/IkqIR5peAD",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902074223096410468",
+      "created_at": "2025-03-18T19:06:48.000Z",
+      "text": "@M_Kasinski same as our standard free and paid plans, but you get to prepay for tokens via the integration!",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902073955952792034",
+      "created_at": "2025-03-18T19:05:44.000Z",
+      "text": "We offer both free and prepaid plans for you to take advantage of. Build fast. :) https://t.co/Kgl9xAyPYX",
+      "likes": 39,
+      "retweets": 0
+    },
+    {
+      "id": "1902072914096054492",
+      "created_at": "2025-03-18T19:01:36.000Z",
+      "text": "All you need to do is find Groq in the AI category of Vercel Marketplace, connect your projects, and you're ready to build. \n\nNot just ready to build - all you have to focus on is building. And shipping. :) \n\nBuild fast, fellow Vercel lovers: https://t.co/hrIAT8bVgf",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1902072912628347144",
+      "created_at": "2025-03-18T19:01:35.000Z",
+      "text": "3/4 The integration also introduces prepaid billing - a game-changer for your AI cost management. \n\nPurchase Groq credits upfront and use them across any model we offer across text, speech, and vision.\n\nRead the docs here: https://t.co/GK1R4iRZ0Z",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1902072911072215097",
+      "created_at": "2025-03-18T19:01:35.000Z",
+      "text": "2/4 What makes this integration special is what you don't have to do. No more juggling between platforms or managing separate auth systems.\n\nYou can now connect models hosted on Groq directly to your Vercel apps with single sign-on, integrated billing, and easy access management.",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1902072909021245681",
+      "created_at": "2025-03-18T19:01:34.000Z",
+      "text": "Excited to announce that @GroqInc is now on the @vercel Marketplace under the new AI category. \n\nWe've simplified the entire integration process down to a couple of clicks on your Vercel dashboard to add fast AI inference to your applications in seconds. https://t.co/BW05agH6pM",
+      "likes": 82,
+      "retweets": 2
+    },
+    {
+      "id": "1901797141795762552",
+      "created_at": "2025-03-18T00:45:46.000Z",
+      "text": "@EffortDefines @GroqInc thanks, Rafael! let us know what else you'd like to see :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1901696341333475414",
+      "created_at": "2025-03-17T18:05:14.000Z",
+      "text": "@KartikeyRai_ happy to hear it! we’re really excited about this feature and the use cases it unlocks. :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1901673300251561987",
+      "created_at": "2025-03-17T16:33:40.000Z",
+      "text": "4/4 This awesome feature enables interactive transcript navigation, precise subtitle generation, and searchable, jump-to-word audio content.\n\nYour audio content analysis can now happen with word-level precision instead of broad segments. 🫡\n\nSee our docs: https://t.co/HGGoqQze2g",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "id": "1901673298133438815",
+      "created_at": "2025-03-17T16:33:40.000Z",
+      "text": "3/4 I've also updated our audio chunking tutorial to include support for segment and/or word timestamp granularities for your long audio files.\n\nWe're so close to 1K stars and it would be cool if you dropped one on the repo! ⭐️\n\nYou can check it out here: https://t.co/I1m36oNnLM",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1901673296006881461",
+      "created_at": "2025-03-17T16:33:39.000Z",
+      "text": "2/4 To implement word-level timestamps, set:\n\n- response_format to \"verbose_json\"\n- add timestamp_granularities: [\"word\"] to your request\n\nOur API will return precise start/end timings for each word in your transcript. Here's what the response looks like: https://t.co/8MHC5H9X5H",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1901673293008060720",
+      "created_at": "2025-03-17T16:33:39.000Z",
+      "text": "Big PSA: In case you didn't hear, @GroqInc now supports word-level timestamps for our transcriptions endpoint.\n\nThis has been one of our most requested features that we're very excited to have shipped for all available Whisper models. https://t.co/zzNHWiiH6C",
+      "likes": 67,
+      "retweets": 5
+    },
+    {
+      "id": "1901104042572488812",
+      "created_at": "2025-03-16T02:51:39.000Z",
+      "text": "@CamelAIOrg if you also want to try:\nhttps://t.co/n0XUnttg3h\nhttps://t.co/uMn1MUEDx8",
+      "likes": 4,
+      "retweets": 0
+    },
+    {
+      "id": "1901103941112193512",
+      "created_at": "2025-03-16T02:51:15.000Z",
+      "text": "looks like it's time for me to test the open-sourced manus without the m or @CamelAIOrg's owl https://t.co/ANtLPXWUbX",
+      "likes": 6,
+      "retweets": 1
+    },
+    {
+      "id": "1901016335708025148",
+      "created_at": "2025-03-15T21:03:08.000Z",
+      "text": "@anushkmittal @MatthewBerman it was back to back meetings + devs - i've been out to sf so many times yet still haven't even made it over to see the golden gate bridge haha",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1901016059177824673",
+      "created_at": "2025-03-15T21:02:02.000Z",
+      "text": "@kwindla @magomedlovski @tom_shapland big fan of both of you (and pipecat now)! love my pipecat tee. it's been extremely hectic, but i'll be looking into groq x pipecat content this week. :)",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1901015780692472258",
+      "created_at": "2025-03-15T21:00:55.000Z",
+      "text": "@yigitkonur @ramkumar_tw @sundarpichai @grok 100% agree haha",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1901015644721614927",
+      "created_at": "2025-03-15T21:00:23.000Z",
+      "text": "@MrlolDev @osanseviero not sure of a when rn, but team is looking into it!",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1901015535120511053",
+      "created_at": "2025-03-15T20:59:57.000Z",
+      "text": "@Jack_Wu_ @osanseviero looking into it 👀",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1901015400965443862",
+      "created_at": "2025-03-15T20:59:25.000Z",
+      "text": "@glendny i unfortunately only had a few of those to give, BUT i'd be more than happy to get you in on an exciting beta coming soon if you DM me your email? 🫡",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1901015097356554711",
+      "created_at": "2025-03-15T20:58:13.000Z",
+      "text": "@7thgrnd @GroqInc extremely busy week (more so than usual)! apologies for missing this. just responded to your DM! 🫡",
+      "likes": 1,
+      "retweets": 0
+    },
+    {
+      "id": "1901011963301556469",
+      "created_at": "2025-03-15T20:45:45.000Z",
+      "text": "@AarushSah_ @sundeep @JonathanRoss321 @kraken_9076 @benklieger @spatialjlo @RickLamers LOL how are @kraken_9076 and i the same level of lawful (also he should be much more evil)",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1901011489408065563",
+      "created_at": "2025-03-15T20:43:52.000Z",
+      "text": "@akbarithm @GroqInc @cursor_ai happy that solved it - enjoy!",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1900359143317545272",
+      "created_at": "2025-03-14T01:31:41.000Z",
+      "text": "@MrlolDev @sundeep @GroqInc DM me 🤝🏻",
+      "likes": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1900359107762413776",
+      "created_at": "2025-03-14T01:31:32.000Z",
+      "text": "@commonsenseyous @sundeep @MrlolDev @GroqInc DM me! :)",
+      "likes": 3,
+      "retweets": 0
+    },
+    {
+      "id": "1900354889689292994",
+      "created_at": "2025-03-14T01:14:47.000Z",
+      "text": "@akbarithm @GroqInc @cursor_ai hi! did you make sure to disable other models?",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1900220741418967411",
+      "created_at": "2025-03-13T16:21:43.000Z",
+      "text": "@osanseviero congratulations to you and the team!!! another W for open source 💪",
+      "likes": 5,
+      "retweets": 0
+    },
+    {
+      "id": "1899969014174204354",
+      "created_at": "2025-03-12T23:41:27.000Z",
+      "text": "@kwindla @magomedlovski @tom_shapland hey, @kwindla! i had met nina in nyc at ai dot eng, learned a lot about pipecat, and explored it myself! would love to talk more about this :)",
+      "likes": 0,
+      "retweets": 0
+    },
+    {
+      "id": "1899702873061302733",
+      "created_at": "2025-03-12T06:03:54.000Z",
+      "text": "@Famebydexy amazing - so excited for you to try it!",
+      "likes": 2,
+      "retweets": 0
+    }
+  ]
+}
